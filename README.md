@@ -14,6 +14,12 @@ This is the course content page for the _new and improved_ CIS680 at Grand Valle
 * Syllabus
 * [Course Content](#course-content) 
 
+## Technologies
+
+We are going to focus mainly on [Google Cloud](https://cloud.google.com/) in this course, with additional examples using [Amazon Web Services](https://aws.amazon.com/) as feasible.
+
+**NOTE: YOU SHOULD NEVER ENTER YOUR CREDIT CARD FOR ANYTHING IN THIS CLASS!**  You will receive free cloud credits to use by being registered in the course.
+
 ## Course Outline
 
 This course is a full-semester of **online asynchronous** content.  Each week will focus on a particular topic and comprise assignments, practical exercises, etc.  There is no textbook for this class.  Instead, this website and the associated videos will provide the content for this class.
