@@ -4,7 +4,34 @@ This is the course content page for the _new and improved_ CIS680 at Grand Valle
 
 *Note that the accelerated (i.e., 5 weeks) variant is still live and will be left up for posterity - that page is deprecated in favor of this one*.
 
+> Please note that our Blackboard page is your home for **all** deadlines! 
+
+## Quick Links
+
+* YouTube playlist
+* Course website - Blackboard (sorry non-GVSU students)
+* Google Cloud Console
+* Syllabus
+* [Course Content](#course-content) 
+
 ## Course Outline
+
+This course is a full-semester of **online asynchronous** content.  Each week will focus on a particular topic and comprise assignments, practical exercises, etc.  There is no textbook for this class.  Instead, this website and the associated videos will provide the content for this class.
+
+### Assignments
+
+Each week you will have assignments due **via Blackboard**.  Please ensure you keep up with deadlines/deliverables.
+
+### Term Project
+
+
+### Topic Presentation
+
+### Exams
+
+## Course Content
+
+The following links will take you to each week's content.  
 
 ### Week 1 - Introduction
 
