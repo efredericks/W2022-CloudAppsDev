@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Cloud Applications Development (CIS680) - W2022
 
-You can use the [editor on GitHub](https://github.com/efredericks/W2022-CloudAppsDev/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is the course content page for the _new and improved_ CIS680 at Grand Valley State University. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*Note that the accelerated (i.e., 5 weeks) variant is still live and will be left up for posterity - that page is deprecated in favor of this one*.
 
-### Markdown
+## Course Outline
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Week 1 - Introduction
 
-```markdown
-Syntax highlighted code block
+### Week 2 - Cloud Technologies
 
-# Header 1
-## Header 2
-### Header 3
+### Week 3 - Serverless Functions
 
-- Bulleted
-- List
+### Week 4 - Designing Cloud Applications
 
-1. Numbered
-2. List
+### Week 5 - Geographic Concerns
 
-**Bold** and _Italic_ and `Code` text
+### Week 6 - Cloud Storage
 
-[Link](url) and ![Image](src)
-```
+### Week 7 - Application Programming Interfaces (APIs)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Week 8 - Cloud Security
 
-### Jekyll Themes
+### Week 9 - Cloud Networking
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/efredericks/W2022-CloudAppsDev/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Week 10 - Cloud Automation
 
-### Support or Contact
+### Week 11 - Data
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Week 12 - Machine Learning
+
+### Week 13 - Kubernetes
+
+### Week 14 - Firebase
+
+### Week 15 - Tasks, Scheduling, and Where to Go from Here
