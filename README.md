@@ -6,6 +6,8 @@ This is the course content page for the _new and improved_ CIS680 at Grand Valle
 
 > Please note that our Blackboard page is your home for **all** deadlines! 
 
+As a heads up, the videos were initially recorded in 2020 and I have updated/added/edited where necessary.  Google (and other cloud providers) have a habit of updating their interfaces as often as humanly possible.  If you discover a video (that I have missed) please let me know.
+
 ## Quick Links
 
 * YouTube playlist
@@ -41,11 +43,26 @@ The following links will take you to each week's content.
 
 ### Week 1 - Introduction
 
+1. What is Cloud Computing?
+2. Cloud Computing Costs
+3. Cloud Providers
+
 ### Week 2 - Cloud Technologies
+
+1. Infrastructure as a Service (IaaS)
+2. Platform as a Service (IaaS)
+3. Software as a Service (SaaS)
+4. Additional - Cloud Shell / Course Resources
 
 ### Week 3 - Serverless Functions
 
+1. Serverless Functions
+2. Authentication (of Serverless)
+3. Logging and Tracing
+
 ### Week 4 - Designing Cloud Applications
+
+
 
 ### Week 5 - Geographic Concerns
 
