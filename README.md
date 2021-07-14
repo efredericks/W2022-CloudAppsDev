@@ -43,7 +43,7 @@ The following links will take you to each week's content.
 
 ### Week 1 - Introduction
 
-1. What is Cloud Computing?
+1. [What is Cloud Computing?](posts/1-Introduction.md)
 2. Cloud Computing Costs
 3. Cloud Providers
 
