@@ -62,11 +62,22 @@ The following links will take you to each week's content.
 
 ### Week 4 - Designing Cloud Applications
 
-
+1. What are Cloud Applications?
+2. Microservices
+3. App Engine
+4. Monolithic-to-Microlithic Demo
 
 ### Week 5 - Geographic Concerns
 
+1. General Geographic Concerns
+2. Export Controls
+3. Load Balancing
+
 ### Week 6 - Cloud Storage
+
+1. Types of Data (in the Cloud)
+2. Cloud Storage Demos
+3. BigTable / BigQuery
 
 ### Week 7 - Application Programming Interfaces (APIs)
 
